@@ -1,0 +1,11 @@
+{
+  "name": "indonesia-postal-api",
+  "version": "1.0.0",
+  "description": "indonesian postal static api",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cli-progress": "^3.10.0",
+    "csv-parser": "^3.0.0"
+  }
+}
